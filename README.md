@@ -7,7 +7,7 @@ The laravel form builder code generator
 - Bootstrap 3.x, 4.x
 - Semantic UI all version
 - Materialize css all version 
-
+-hamed vip
 # supported elements & etc.
 - row and columns
 - input (all type)
@@ -53,3 +53,5 @@ If you like it just star project to support us.
 cheers the 4xmen team :-P
 
 http://4xmen.ir
+
+http://hamed.ir
